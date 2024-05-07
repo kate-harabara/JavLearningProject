@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed3a74c5-437d-416d-bc35-3bc6575e2301" name="Changes" comment="declared and initialized all 16 types of variables">
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/classesandobjects/autoservicetask/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/classesandobjects/autoservicetask/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/classesandobjects/autoservicetask/ManageAutoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/classesandobjects/autoservicetask/Tool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/classesandobjects/autoservicetask/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/accessmodifiers/ChisinauEvidenceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/accessmodifiers/peopleevidence/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +47,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ChisinauEvidenceService.executor": "Run",
     "Application.CommentsAndVariables.executor": "Run",
     "Application.GitWorkFlow.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ManageAutoService.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "TA-8__AutoServiceTask",
+    "git-widget-placeholder": "TA-9__VariablesAndAccessModifiersBranch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/vladimirciorba/Documents/JavLearningProject/.idea",
     "node.js.detected.package.eslint": "true",
@@ -78,7 +76,20 @@
       <recent name="md.teckwillacademy.classesandobjects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ManageAutoService">
+  <component name="RunManager" selected="Application.ChisinauEvidenceService">
+    <configuration name="ChisinauEvidenceService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.accessmodifiers.ChisinauEvidenceService" />
+      <module name="JavLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md.teckwillacademy.accessmodifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CommentsAndVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.CommentsAndVariables" />
       <module name="JavLearningProject" />
@@ -133,6 +144,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChisinauEvidenceService" />
         <item itemvalue="Application.ManageAutoService" />
         <item itemvalue="Application.GitWorkFlow" />
         <item itemvalue="Application.CommentsAndVariables" />
@@ -198,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713292095694</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added the Java Code for an Auto Service app">
+      <option name="closed" value="true" />
+      <created>1714503029690</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714503029690</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +238,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit by Kate" />
     <MESSAGE value="declared and initialized all 16 types of variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="declared and initialized all 16 types of variables" />
+    <MESSAGE value="Added the Java Code for an Auto Service app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the Java Code for an Auto Service app" />
   </component>
 </project>
