@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed3a74c5-437d-416d-bc35-3bc6575e2301" name="Changes" comment="declared and initialized all 16 types of variables">
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/accessmodifiers/ChisinauEvidenceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/accessmodifiers/peopleevidence/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandcyclingfunctions/ArithmeticOperationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandcyclingfunctions/AssignmentOperationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandcyclingfunctions/ComparisonOperationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandcyclingfunctions/DayOfTheWeekService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandcyclingfunctions/GradeSystemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandcyclingfunctions/IncrementDecrementOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandcyclingfunctions/LogicaloperationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/md/teckwillacademy/operationsandcyclingfunctions/PrintNumberService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +53,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArithmeticOperationExample.executor": "Run",
+    "Application.AssignmentOperationExample.executor": "Run",
     "Application.ChisinauEvidenceService.executor": "Run",
     "Application.CommentsAndVariables.executor": "Run",
+    "Application.ComparisonOperationExample.executor": "Run",
+    "Application.DayOfTheWeekService.executor": "Run",
     "Application.GitWorkFlow.executor": "Run",
+    "Application.GradeSystemService.executor": "Run",
+    "Application.IncrementDecrementOperation.executor": "Run",
+    "Application.LogicaloperationExample.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ManageAutoService.executor": "Run",
+    "Application.PrintNumberService.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "TA-9__VariablesAndAccessModifiersBranch",
+    "git-widget-placeholder": "TA-10__OperationsAndDefinedFunctions",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/vladimirciorba/Documents/JavLearningProject/.idea",
     "node.js.detected.package.eslint": "true",
@@ -76,13 +90,13 @@
       <recent name="md.teckwillacademy.classesandobjects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChisinauEvidenceService">
-    <configuration name="ChisinauEvidenceService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.accessmodifiers.ChisinauEvidenceService" />
+  <component name="RunManager" selected="Application.PrintNumberService">
+    <configuration name="DayOfTheWeekService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandcyclingfunctions.DayOfTheWeekService" />
       <module name="JavLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.accessmodifiers.*" />
+          <option name="PATTERN" value="md.teckwillacademy.operationsandcyclingfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommentsAndVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.CommentsAndVariables" />
+    <configuration name="GradeSystemService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandcyclingfunctions.GradeSystemService" />
       <module name="JavLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.*" />
+          <option name="PATTERN" value="md.teckwillacademy.operationsandcyclingfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GitWorkFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.gitworkflow.GitWorkFlow" />
+    <configuration name="IncrementDecrementOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandcyclingfunctions.IncrementDecrementOperation" />
       <module name="JavLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.gitworkflow.*" />
+          <option name="PATTERN" value="md.teckwillacademy.operationsandcyclingfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.Main" />
+    <configuration name="LogicaloperationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandcyclingfunctions.LogicaloperationExample" />
       <module name="JavLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.*" />
+          <option name="PATTERN" value="md.teckwillacademy.operationsandcyclingfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManageAutoService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.classesandobjects.autoservicetask.ManageAutoService" />
+    <configuration name="PrintNumberService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md.teckwillacademy.operationsandcyclingfunctions.PrintNumberService" />
       <module name="JavLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="md.teckwillacademy.classesandobjects.autoservicetask.*" />
+          <option name="PATTERN" value="md.teckwillacademy.operationsandcyclingfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChisinauEvidenceService" />
-        <item itemvalue="Application.ManageAutoService" />
-        <item itemvalue="Application.GitWorkFlow" />
-        <item itemvalue="Application.CommentsAndVariables" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PrintNumberService" />
+        <item itemvalue="Application.DayOfTheWeekService" />
+        <item itemvalue="Application.IncrementDecrementOperation" />
+        <item itemvalue="Application.GradeSystemService" />
+        <item itemvalue="Application.LogicaloperationExample" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713282561727</updated>
       <workItem from="1713282562950" duration="11823000" />
+      <workItem from="1715191375651" duration="5680000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit by Kate">
       <option name="closed" value="true" />
